@@ -24,6 +24,10 @@
 
  - [GraphQL](https://graphql.cn/)
 
+## 小程序
+
+ - [wxParser](https://github.com/ifanrx/wxParser) - 微信小程序富文本渲染引擎
+
 ## 测试
 
  - [newman](https://github.com/postmanlabs/newman) - postman的命令行版
