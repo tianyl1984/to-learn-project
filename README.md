@@ -20,6 +20,8 @@
 
  - [CAT](https://github.com/dianping/cat) - 美团开源的监控告警系统，支持多语言
 
+ - [Dapper论文翻译](https://github.com/bigbully/Dapper-translation) - Dapper分布式跟踪系统
+
 ## 接口设计
 
  - [GraphQL](https://graphql.cn/)
@@ -28,6 +30,21 @@
 
  - [wxParser](https://github.com/ifanrx/wxParser) - 微信小程序富文本渲染引擎
 
+## 网络
+
+ - [http2](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)
+
 ## 测试
 
  - [newman](https://github.com/postmanlabs/newman) - postman的命令行版
+
+ - [FasterRunner](https://github.com/yinquanwang/FasterRunner) - 接口测试工具
+
+ - [wrk](https://github.com/wg/wrk) - http性能测试工具
+
+## 其他
+
+ - [OpenResty最佳实践](https://legacy.gitbook.com/book/moonbingbing/openresty-best-practices/details)
+
+
+ 
