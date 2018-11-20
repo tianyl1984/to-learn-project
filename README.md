@@ -5,6 +5,7 @@
  - [k8s](http://docs.kubernetes.org.cn/) - 容器集群管理系统
  - [docker](https://yeasy.gitbooks.io/docker_practice/content/) - 流行的容器
  - [istio](https://istio.io/)
+ - [wayne](https://github.com/Qihoo360/wayne) - 360开源的k8s多集群管理工具
 
 ## 数据库
 
@@ -37,14 +38,12 @@
 ## 测试
 
  - [newman](https://github.com/postmanlabs/newman) - postman的命令行版
-
  - [FasterRunner](https://github.com/yinquanwang/FasterRunner) - 接口测试工具
-
  - [wrk](https://github.com/wg/wrk) - http性能测试工具
 
 ## 其他
 
  - [OpenResty最佳实践](https://legacy.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 
-
+ - [gitbase](https://github.com/src-d/gitbase) - 使用sql查询git仓库信息
  
