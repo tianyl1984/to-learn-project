@@ -47,3 +47,9 @@
 
  - [gitbase](https://github.com/src-d/gitbase) - 使用sql查询git仓库信息
  
+ - [carlo](https://github.com/GoogleChromeLabs/carlo) - nodejs使用chrome做桌面应用
+
+
+
+
+
