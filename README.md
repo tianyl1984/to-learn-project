@@ -5,6 +5,7 @@
  - [k8s](http://docs.kubernetes.org.cn/) - 容器集群管理系统
  - [docker](https://yeasy.gitbooks.io/docker_practice/content/) - 流行的容器
  - [istio](https://istio.io/)
+ - [Naftis](https://github.com/xiaomi/naftis) - 基于 web 的 Istio dashboard
  - [wayne](https://github.com/Qihoo360/wayne) - 360开源的k8s多集群管理工具
  - [dive](https://github.com/wagoodman/dive) - docker镜像分析
 
@@ -26,6 +27,11 @@
 
  - [CAT](https://github.com/dianping/cat) - 美团开源的监控告警系统，支持多语言
  - [Dapper论文翻译](https://github.com/bigbully/Dapper-translation) - Dapper分布式跟踪系统
+ - [prometheus](https://prometheus.io/) - 服务监控
+
+## 高可用
+
+ - [resilience4j](https://github.com/resilience4j/resilience4j) - Netflix官方推荐
 
 ## 接口设计
 
@@ -56,7 +62,7 @@
  - [OpenResty最佳实践](https://legacy.gitbook.com/book/moonbingbing/openresty-best-practices/details)
  - [gitbase](https://github.com/src-d/gitbase) - 使用sql查询git仓库信息
  - [carlo](https://github.com/GoogleChromeLabs/carlo) - nodejs使用chrome做桌面应用
-
+ - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 
 
