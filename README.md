@@ -9,6 +9,7 @@
  - [wayne](https://github.com/Qihoo360/wayne) - 360开源的k8s多集群管理工具
  - [dive](https://github.com/wagoodman/dive) - docker镜像分析
 
+
 ## 数据库
 
  - [mysql](https://www.mysql.com/)
@@ -54,10 +55,18 @@
 ## nodejs
 
  - [node-clinic](https://github.com/nearform/node-clinic) - nodejs应用性能诊断
+ - [tesseract.js](https://github.com/naptha/tesseract.js) - OCR
+ - [images](https://github.com/zhangyuanwei/node-images) - 图片处理
+ - [midway](https://github.com/midwayjs/midway) - 基于TypeScript开发的全栈框架
 
+## java
+
+ - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - java学习指南
+ - [advanced-java](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲
+ 
 ## 分布式事务
 
-- [hmily](https://github.com/yu199195/hmily) - TCC分布式事务java框架
+ - [hmily](https://github.com/yu199195/hmily) - TCC分布式事务java框架
 
 ## 测试
 
@@ -65,12 +74,31 @@
  - [FasterRunner](https://github.com/yinquanwang/FasterRunner) - 接口测试工具
  - [wrk](https://github.com/wg/wrk) - http性能测试工具
 
+## 性能分析
+
+ - [TProfiler](https://github.com/alibaba/TProfiler) - 阿里开源的性能分析工具
+
+## 工具
+
+ - [hexyl](https://github.com/sharkdp/hexyl) - 十六进制彩色展示二进制文件
+ - [httpie](https://github.com/jakubroztocil/httpie) - http客户端
+
+## 收藏
+
+ - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - github项目介绍
+
 ## 其他
 
  - [OpenResty最佳实践](https://legacy.gitbook.com/book/moonbingbing/openresty-best-practices/details)
  - [gitbase](https://github.com/src-d/gitbase) - 使用sql查询git仓库信息
  - [carlo](https://github.com/GoogleChromeLabs/carlo) - nodejs使用chrome做桌面应用
  - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+ - [SQLer](https://github.com/alash3al/sqler) - 把sql查询转换为REST接口
+ - [syncd](https://github.com/dreamans/syncd) - 代码部署工具
+ - [codelf](https://github.com/unbug/codelf) - 变量命名查询
+ - [cim]https://github.com/crossoverJie/cim) - 开源IM
+
+
 
 
 
