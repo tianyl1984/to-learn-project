@@ -8,7 +8,8 @@
  - [Naftis](https://github.com/xiaomi/naftis) - 基于 web 的 Istio dashboard
  - [wayne](https://github.com/Qihoo360/wayne) - 360开源的k8s多集群管理工具
  - [dive](https://github.com/wagoodman/dive) - docker镜像分析
-
+ - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
+ - [jib](https://github.com/GoogleContainerTools/jib) - 把java项目构建为镜像
 
 ## 数据库
 
@@ -33,6 +34,7 @@
  - [CAT](https://github.com/dianping/cat) - 美团开源的监控告警系统，支持多语言
  - [Dapper论文翻译](https://github.com/bigbully/Dapper-translation) - Dapper分布式跟踪系统
  - [prometheus](https://prometheus.io/) - 服务监控
+ - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - java服务 APM
 
 ## 高可用
 
@@ -42,9 +44,10 @@
 
  - [GraphQL](https://graphql.cn/)
 
-## 小程序
+## 前端
 
  - [wxParser](https://github.com/ifanrx/wxParser) - 微信小程序富文本渲染引擎
+ - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - Flutter实战
 
 ## 网络
 
@@ -84,9 +87,10 @@
  - [hexyl](https://github.com/sharkdp/hexyl) - 十六进制彩色展示二进制文件
  - [httpie](https://github.com/jakubroztocil/httpie) - http客户端
 
-## 收藏
+## 资源
 
  - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - github项目介绍
+ - [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - json格式api，无需授权
 
 ## 其他
 
@@ -97,10 +101,10 @@
  - [SQLer](https://github.com/alash3al/sqler) - 把sql查询转换为REST接口
  - [syncd](https://github.com/dreamans/syncd) - 代码部署工具
  - [codelf](https://github.com/unbug/codelf) - 变量命名查询
- - [cim]https://github.com/crossoverJie/cim) - 开源IM
-
-
-
-
+ - [cim](https://github.com/crossoverJie/cim) - 开源IM
+ - [jsonnet](https://github.com/google/jsonnet) - 配置文件模板语言
+ - [git-history](https://github.com/pomber/git-history) - git仓库文件历史查看
+ - [Gource](https://github.com/acaudwell/Gource) - 可视化查看git日志
+ - [trilium](https://github.com/zadam/trilium) - 个人知识库管理
 
 
