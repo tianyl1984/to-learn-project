@@ -106,5 +106,9 @@
  - [git-history](https://github.com/pomber/git-history) - git仓库文件历史查看
  - [Gource](https://github.com/acaudwell/Gource) - 可视化查看git日志
  - [trilium](https://github.com/zadam/trilium) - 个人知识库管理
+ - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略
+
+
+
 
 
