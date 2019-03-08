@@ -106,5 +106,5 @@
  - [git-history](https://github.com/pomber/git-history) - git仓库文件历史查看
  - [Gource](https://github.com/acaudwell/Gource) - 可视化查看git日志
  - [trilium](https://github.com/zadam/trilium) - 个人知识库管理
-
-
+ - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - 从头创建操作系统
+ - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
