@@ -108,3 +108,8 @@
  - [trilium](https://github.com/zadam/trilium) - 个人知识库管理
  - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - 从头创建操作系统
  - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+ - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略
+ - [javascript-tutorial](https://github.com/iliakan/javascript-tutorial-en/) - js教程
+ - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 新华字典数据库
+ - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - leetcode算法图解
+
