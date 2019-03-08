@@ -107,8 +107,8 @@
  - [Gource](https://github.com/acaudwell/Gource) - 可视化查看git日志
  - [trilium](https://github.com/zadam/trilium) - 个人知识库管理
  - [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - Chrome插件开发全攻略
-
-
-
+ - [javascript-tutorial](https://github.com/iliakan/javascript-tutorial-en/) - js教程
+ - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 新华字典数据库
+ - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - leetcode算法图解
 
 
