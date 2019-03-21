@@ -61,6 +61,7 @@
  - [tesseract.js](https://github.com/naptha/tesseract.js) - OCR
  - [images](https://github.com/zhangyuanwei/node-images) - 图片处理
  - [midway](https://github.com/midwayjs/midway) - 基于TypeScript开发的全栈框架
+ - [Node.js 最佳实践](https://github.com/i0natan/nodebestpractices) - Node.js 最佳实践
 
 ## java
 
