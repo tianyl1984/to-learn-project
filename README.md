@@ -100,6 +100,7 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - vue2.0
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Bootstarp
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) 
+- [renren-security](https://github.com/renrenio/renren-security)
 
 ## 其他
 
