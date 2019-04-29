@@ -124,6 +124,6 @@
  - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 新华字典数据库
  - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - leetcode算法图解
  - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
-
+ - [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 
 
