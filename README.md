@@ -125,5 +125,6 @@
  - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - leetcode算法图解
  - [awesome-roadmaps](https://github.com/orsanawwad/awesome-roadmaps)
  - [awesome](https://github.com/sindresorhus/awesome)
-
+ - [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
+ - [redis-mindmap](https://github.com/Weiwf/redis-mindmap) - redis的重要知识点
 
