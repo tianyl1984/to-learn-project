@@ -74,6 +74,9 @@
 ## 分布式事务
 
  - [hmily](https://github.com/yu199195/hmily) - TCC分布式事务java框架
+ - [seata](https://github.com/seata/seata) - 分布式事务
+ - [taas](https://github.com/seata/taas) - seata 服务端
+ - [seata-samples](https://github.com/seata/seata-samples) - seata-samples
 
 ## 测试
 
