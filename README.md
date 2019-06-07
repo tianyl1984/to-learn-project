@@ -49,6 +49,7 @@
 
  - [wxParser](https://github.com/ifanrx/wxParser) - 微信小程序富文本渲染引擎
  - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - Flutter实战
+ - [GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook) - Flutter完整开发实战详解系列
 
 ## 网络
 
@@ -74,6 +75,9 @@
 ## 分布式事务
 
  - [hmily](https://github.com/yu199195/hmily) - TCC分布式事务java框架
+ - [seata](https://github.com/seata/seata) - 分布式事务
+ - [taas](https://github.com/seata/taas) - seata 服务端
+ - [seata-samples](https://github.com/seata/seata-samples) - seata-samples
 
 ## 测试
 
@@ -128,3 +132,5 @@
  - [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
  - [redis-mindmap](https://github.com/Weiwf/redis-mindmap) - redis的重要知识点
  - [auxpi](https://github.com/aimerforreimu/auxpi) - 集合多家 API 的新一代图床
+ - [koalas-rpc](https://gitee.com/a1234567891/koalas-rpc) - RPC框架
+
