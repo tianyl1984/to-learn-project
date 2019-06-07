@@ -127,4 +127,4 @@
  - [awesome](https://github.com/sindresorhus/awesome)
  - [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
  - [redis-mindmap](https://github.com/Weiwf/redis-mindmap) - redis的重要知识点
-
+ - [auxpi](https://github.com/aimerforreimu/auxpi) - 集合多家 API 的新一代图床
