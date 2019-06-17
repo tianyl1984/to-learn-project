@@ -34,6 +34,7 @@
  - [CAT](https://github.com/dianping/cat) - 美团开源的监控告警系统，支持多语言
  - [Dapper论文翻译](https://github.com/bigbully/Dapper-translation) - Dapper分布式跟踪系统
  - [prometheus](https://prometheus.io/) - 服务监控
+ - [prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
  - [MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - java服务 APM
 
 ## 高可用
@@ -71,6 +72,7 @@
  - [advanced-java](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲
  - [arthas](https://github.com/alibaba/arthas) - 阿里开源的java诊断程序
  - [JGrowing](https://github.com/javagrowing/JGrowing) - Java成长路线
+ - [vole](https://github.com/gavenwangcn/vole) - SpringCloud 微服务脚手架
 
 ## 分布式事务
 
