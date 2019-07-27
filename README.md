@@ -10,6 +10,7 @@
  - [dive](https://github.com/wagoodman/dive) - docker镜像分析
  - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
  - [jib](https://github.com/GoogleContainerTools/jib) - 把java项目构建为镜像
+ - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 
 ## 数据库
 
@@ -51,6 +52,7 @@
  - [wxParser](https://github.com/ifanrx/wxParser) - 微信小程序富文本渲染引擎
  - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - Flutter实战
  - [GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook) - Flutter完整开发实战详解系列
+ - [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集
 
 ## 网络
 
