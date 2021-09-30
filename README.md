@@ -11,6 +11,8 @@
  - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
  - [jib](https://github.com/GoogleContainerTools/jib) - 把java项目构建为镜像
  - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+ - [K8Dash](https://github.com/herbrandson/k8dash) - Simple Kubernetes realtime dashboard and management
+ - [kui](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development
 
 ## 数据库
 
@@ -67,6 +69,7 @@
  - [images](https://github.com/zhangyuanwei/node-images) - 图片处理
  - [midway](https://github.com/midwayjs/midway) - 基于TypeScript开发的全栈框架
  - [Node.js 最佳实践](https://github.com/i0natan/nodebestpractices) - Node.js 最佳实践
+ - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 
 ## java
 
@@ -75,6 +78,8 @@
  - [arthas](https://github.com/alibaba/arthas) - 阿里开源的java诊断程序
  - [JGrowing](https://github.com/javagrowing/JGrowing) - Java成长路线
  - [vole](https://github.com/gavenwangcn/vole) - SpringCloud 微服务脚手架
+ - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
+ - [awesome-spring-cloud](https://github.com/eacdy/awesome-spring-cloud) - Spring Cloud 优质资源一网打尽
 
 ## 分布式事务
 
